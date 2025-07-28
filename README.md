@@ -30,10 +30,9 @@ This Flutter application simulates a **digital membership card** that can be fli
 
 ## 📸 Demo
 
-| Front (User Info) | Back (QR Code) |
-|-------------------|----------------|
-| ![Front](assets/front.png) | ![Back](assets/back.png) |
 
+|-------------------|
+| ![Front](assets/ezgif-637fa55212d86e.gif) | 
 > 💡 Tip: Tap or swipe the card to flip!
 
 <br/>
