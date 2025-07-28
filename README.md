@@ -42,5 +42,5 @@ This Flutter application simulates a **digital membership card** that can be fli
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/virtual-membership-card.git
-cd virtual-membership-card
+git clone https://github.com/GaryChettiar/virtual-card.git
+cd virtual-card
